@@ -1,3 +1,7 @@
+<!-- default file list -->
+*Files to look at*:
+
+<!-- default file list end -->
 # How to localize a DevExtreme application using Globalize v1.X
 
 
