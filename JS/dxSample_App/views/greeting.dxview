@@ -1,6 +1,0 @@
-<div data-options="dxView : { name: 'greeting', title: '@greeting' } ">
-    <div data-bind="dxCommand: { title: '@back', id: 'back', onExecute: '#_back' }"></div>
-    <div data-options="dxContent : { targetPlaceholder: 'content' } " class="dx-content-background">
-        <h1>@welcome</h1>
-    </div>
-</div>

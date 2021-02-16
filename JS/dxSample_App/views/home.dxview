@@ -1,7 +1,0 @@
-<div data-options="dxView : { name: 'home', title: '@home'} " >
-    <div class="home-view dx-content-background"  data-options="dxContent : { targetPlaceholder: 'content' } " >
-        <div data-bind="dxButton: btnSettings"></div><br />
-        <div data-bind="dxButton: btnNavigateSettings"></div>
-        <div data-bind="dxDataGrid: gridSettings"></div>
-    </div>
-</div>
